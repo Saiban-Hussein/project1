@@ -42,7 +42,7 @@ Worked as a team and had fun. At least I did.
 I beleive we made a really good app for a two week project. The functionality is there and you can find what you are looking for. There is also a lot of room for future development. 
 
 # Links to Project:
-* 
+* [deployed_website](https://saiban-hussein.github.io/project1/)
 * [GitHub Work](https://github.com/Saiban-Hussein/project1)
 
 
