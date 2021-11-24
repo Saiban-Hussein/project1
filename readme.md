@@ -32,14 +32,6 @@ this project is a recipe finding app that allows people to search a food, like c
 **When** I view ingredients for a recipe
 **Then** I am presented with nutrition facts for these ingredients
 
-### Challenges:
-Had to change ideas because of bad API's. Originally going to be an app for WalMart or Amazon
-
-### Successes:
-Worked as a team and had fun. At least I did.
-
-## Overall
-I beleive we made a really good app for a two week project. The functionality is there and you can find what you are looking for. There is also a lot of room for future development. 
 
 # Links to Project:
 * [deployed_website](https://saiban-hussein.github.io/project1/)
