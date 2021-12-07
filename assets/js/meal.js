@@ -16,7 +16,7 @@ const mealSearch = (searchTerm) => {
         searchContainerEl.css('display', 'block');
         recipeEl.css('display', 'none');
   
-        /* Get a reference to the search history element for this search */
+         /* Get a reference to the search history element for this search */
 
         if (mealsArray === null) {
             const searchFailedMsg = $('<p>').text('Sorry, no results were found. Try another search.');
