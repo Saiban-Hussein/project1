@@ -6,7 +6,7 @@ $(document).ready(function() {
   $('#search-form').on('submit', function(event) {
       event.preventDefault();
       let searchTerm = $('#search-field').val();
-      runSearch(searchTerm);
+      runSearch(searchTerm); 
   });
 
   /* Event listener for clicking on search button */
