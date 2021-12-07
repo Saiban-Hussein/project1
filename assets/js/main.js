@@ -14,9 +14,9 @@ $(document).ready(function() {
       let searchTerm = $('#search-field').val();
       runSearch(searchTerm);
   });
-
+  
   /* Helper function to run the search */
   const runSearch = (searchTerm) => {
       mealSearch(searchTerm);
   };
-});
+}); 
