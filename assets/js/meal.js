@@ -11,7 +11,7 @@ const mealSearch = (searchTerm) => {
         let searchResultEl = $('#search-results');
         mealsArray = response.meals;
 
-        /* display meal options from user search */
+         /* display meal options from user search */ 
         searchResultEl.empty();
         searchContainerEl.css('display', 'block');
         recipeEl.css('display', 'none');
