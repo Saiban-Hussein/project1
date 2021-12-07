@@ -1,0 +1,35 @@
+.hidden {
+  display: none;
+}
+
+#measurement, #ingredient{
+  list-style-type: none;
+}
+
+.titleHero{
+  display: flex;
+  justify-content: space-between;
+}
+
+#wallaby{
+  border: rgb(80, 255, 240) 2px ridge;
+}
+
+#titleWallaby{
+  position: relative ;
+  top: 10px;
+  color:#00d1b2;
+  font-size: 35px;
+  font-weight: bolder;
+}
+#subHead{
+  position: relative;
+  top: -15px;
+  color: rgb(3, 136, 125);
+  font-weight: bold;
+}
+.hero-body{
+  padding-bottom: 0px;
+  padding-top: 30px;
+}
+
